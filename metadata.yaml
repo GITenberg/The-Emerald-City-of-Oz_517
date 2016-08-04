@@ -1,0 +1,50 @@
+_repo: The-Emerald-City-of-Oz_517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "The Emerald City of Oz is the sixth of L. Frank Baum's fourteen Land\
+  \ of Oz books. It was also adapted into a Canadian animated film in 1987. Originally\
+  \ published on July 20, 1910, it is the story of Dorothy Gale and her Uncle Henry\
+  \ and Aunt Em coming to live in Oz permanently. While they are toured through the\
+  \ Quadling Country, the Nome King is assembling allies for an invasion of Oz. This\
+  \ is the first time in the Oz series that Baum made use of double plots for one\
+  \ of the books.\nBaum had intended to cease writing Oz stories with this book, but\
+  \ financial pressures prompted him to write and publish The Patchwork Girl of Oz,\
+  \ with seven other Oz books to follow.\nThe book was dedicated to \"Her Royal Highness\
+  \ Cynthia II of Syracuse\" — actually the daughter (born in the previous year, 1909)\
+  \ of the author's younger brother, Henry Clay \"Harry\" Baum.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '517'
+  wikidata: Q1250366
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcsh 'Fantasy'
+- !lcc 'PZ'
+- GITenberg
+title: The Emerald City of Oz
+url: http://www.gutenberg.org/ebooks/517
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%B2%D9%85%D8%B1%D8%AF_%D9%81%D9%8A_%D8%A3%D9%88%D8%B2
+- https://de.wikipedia.org/wiki/Dorothy_in_der_Smaragdenstadt
+- https://en.wikipedia.org/wiki/The_Emerald_City_of_Oz
+- https://pt.wikipedia.org/wiki/The_Emerald_City_of_Oz
